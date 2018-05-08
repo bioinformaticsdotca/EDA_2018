@@ -17,8 +17,8 @@ home: https://bioinformaticsdotca.github.io/EDA_2018
 | 10:30 | <font color="green">*Coffee Break*</font> | 10:30 | <font color="green">*Coffee Break*</font> |  
 | 11:00 | <font color="purple">Module 1 Continued </font> | 11:00 | <font color="purple">Module 4: Clustering (Boris)</font> |  
 | 12:30 | <font color="green">*Lunch*</font> | 12:30 | <font color="green">*Lunch*</font> |  
-| 1:30 | <font color="purple">Module 2: Regression </font> | 1:30 | <font color="purple">Module 4 Continued </font> |  
+| 1:30 | <font color="purple">Module 2: Regression (Boris) </font> | 1:30 | <font color="purple">Module 4 Continued </font> |  
 | 3:00 | <font color="green">*Coffee Break*</font> | 3:00 | <font color="green">*Coffee Break*</font> |  
-| 3:30 | <font color="purple">Module 3: Dimension Reduction</font> | 3:30 | <font color="purple">Module 5: Hypothesis Testing</font> |  
+| 3:30 | <font color="purple">Module 3: Dimension Reduction (Boris)</font> | 3:30 | <font color="purple">Module 5: Hypothesis Testing (Boris)</font> |  
 | 5:00 | <font color="green">Dinner</font> | 5:00 | <font color="purple">Survey and Closing Remarks</font>|    
 | 6:00 | *Integrated Assignment* | | |  
