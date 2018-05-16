@@ -17,6 +17,13 @@ The course schedule can be found [here](https://bioinformaticsdotca.github.io/ed
 
 ***
 
+# Class Photo
+ 
+<img src="https://github.com/bioinformaticsdotca/EDA_2018/blob/master/CBW-May16-2018.jpg?raw=true" alt="Class Photo" width="750" />
+
+
+***
+
 # Day 1 <a id="day1"></a>
 
 You will be able to access them there for the foreseeable future.
