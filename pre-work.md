@@ -4,7 +4,7 @@ permalink: /eda_2018_prework
 title: EDA PreWork
 header1: Workshop Pages for Students
 header2: Exploratory Analysis of Biological Data using R 2018 Pre-Work
-image: /site_images/CBW_introtoR-icon.jpg
+image: /site_images/CBW_R_icon.jpg
 home: https://bioinformaticsdotca.github.io/eda_2018
 ---
 
