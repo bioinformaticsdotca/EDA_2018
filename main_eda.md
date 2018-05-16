@@ -4,7 +4,7 @@ permalink: /eda_2018
 title: EDA
 header1: Workshop Pages for Students
 header2: Exploratory Analysis of Biological Data using R 2018
-image: /site_images/CBW_introtoR-icon.jpg
+image: /site_images/CBW_R_icon.jpg
 ---
 
 # Welcome <a id="welcome"></a>
