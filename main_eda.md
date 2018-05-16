@@ -40,3 +40,8 @@ You will be able to access them there for the foreseeable future.
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.
 
+## Integrated Assignment
+
+The data is [here](https://drive.google.com/a/bioinformatics.ca/file/d/1qdexcZkRv8TFngcZojg3E34UvSApHFps/view?usp=sharing).  
+The script we will be working from is [here](https://raw.githubusercontent.com/bioinformaticsdotca/EDA_2018/master/EDA-integrated-assg-PCA-script.R).
+
