@@ -5,6 +5,10 @@ title: EDA
 header1: Workshop Pages for Students
 header2: Exploratory Analysis of Biological Data using R 2018
 image: /site_images/CBW_R_icon.jpg
+keywords: R and its analysis tools, plot and visualize data, use R and its analysis tools
+description: Course covered for this workshop are broadly relevant for many areas of modern, quantitative biology such as flow cytometry, expression profile analysis, function prediction and more. 
+instructors: Boris Steipe, Lauren Erdman
+length: 2 days
 ---
 
 # Welcome <a id="welcome"></a>
